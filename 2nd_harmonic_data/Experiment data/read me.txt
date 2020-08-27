@@ -1,0 +1,6 @@
+" 0% 2nd harmonic " is the 2nd harmonic signal of glass bottle for 0%  oxygen concentration with 25 bottle.
+" 5%  2nd harmonic " is the 2nd harmonic signal of glass bottle for 5%  oxygen concentration with 25 bottle.
+" 10%  2nd harmonic " is the 2nd harmonic signal of glass bottle for 10%  oxygen concentration with 25 bottle.
+" 21%  2nd harmonic " is the 2nd harmonic signal of glass bottle for 21%  oxygen concentration with 25 bottle.
+
+copyright@central south university.

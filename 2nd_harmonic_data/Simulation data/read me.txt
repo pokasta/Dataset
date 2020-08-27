@@ -1,0 +1,11 @@
+" 1% direct absorption signal " is the direct absorption  signal of glass bottle for 1%  oxygen concentration with 23 periods.
+ " 2% direct absorption signal " is the direct absorption signal  of glass bottle for 2%  oxygen concentration with 23 periods.
+...
+similarly, " 20% direct absorption signal " is the direct absorption signal of glass bottle for 20%  oxygen concentration with 23 periods.
+
+" 1% 2nd harmonic " is the 2nd harmonic signal  of glass bottle for 1%  oxygen concentration with 23 periods.
+ " 2%  2nd harmonic " is the 2nd harmonic signal of glass bottle for 2%  oxygen concentration with 23 periods.
+...
+similarly, " 20%  2nd harmonic " is the 2nd harmonic signal  of glass bottle for 20%  oxygen concentration with 23 periods.
+
+copyright@central south university.
